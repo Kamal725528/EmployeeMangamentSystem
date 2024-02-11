@@ -1,8 +1,8 @@
- ## Employee Management System  ##
+ # Employee Management System  #
 
 - This project is an Employee Management System that allows you to perform CRUD operations on employees, retrieve the nth level manager, implement pagination and sorting, and send emails to managers upon new employee addition.
 
-# Prerequisites
+## Prerequisites ##
 1. Java JDK(version 8 or above)
 2. Maven
 3. MongoDB
@@ -19,7 +19,7 @@
 
 5. I configure the application.properties file inside resource so that my application connects with database and third party api like smtp host for email.
 
-# TO run #
+## To run ##
 
 1. first run the MongoDB by using (mongod command inside bin) which runs locally at port 27017.
 
